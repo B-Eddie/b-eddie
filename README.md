@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-eddie" alt="b-eddie" /></a> </p>
 
-- I’m currently working on my personal website [personal-website](ecodes.tech)
+- I’m currently working on my [personal-website](ecodes.tech)
 
 - I’m currently learning **AI (Tensorflow)**
 
