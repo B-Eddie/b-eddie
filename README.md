@@ -11,7 +11,7 @@
 
 - All of my projects are available at [github.com/b-eddie](github.com/b-eddie)
 
-- How to reach me **eddiewird@gmail.com**
+- How to reach me **eddie.bian@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
