@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eddie</h1>
-<h3 align="center">A frontend developer passionate about web development and AI</h3>
+<h3 align="center">A full-stack developer passionate about web development and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-eddie&label=Profile%20views&color=0e75b6&style=flat" alt="b-eddie" /> </p>
 
