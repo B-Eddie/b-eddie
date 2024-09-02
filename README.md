@@ -7,7 +7,7 @@
 
 - Right now, im just trying to think of a big project idea
 
-- I’m currently (trying) learning **AI (Tensorflow)**
+- I’m currently (trying) learning **AI (pytorch)**
 
 - How to reach me **eddie.bian@yahoo.com**
 
