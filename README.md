@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-eddie" alt="b-eddie" /></a> </p>
 
-- Right now, im just trying to think of a big project idea
+- Currently, I'm just trying to think of a big project idea
 
 - I’m currently (trying) learning **AI (pytorch)**
 
@@ -49,7 +49,6 @@
   </a>
 </p>
 
-(note: this is kinda wrong, i dont do that much python 💀 mostly html css and python)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-eddie&show_icons=true&locale=en&layout=compact" alt="b-eddie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-eddie&show_icons=true&locale=en" alt="b-eddie" /></p>
