@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-eddie" alt="b-eddie" /></a> </p>
 
-- Currently working on a startup
+- Currently thinking of cool project ideas
 
-- Trying to learning **AI (pytorch)**
+- Learning **AI (pytorch)**
 
 - How to reach me **[eddie.bian@yahoo.com](mailto:eddie.bian@yahoo.com)**
 
