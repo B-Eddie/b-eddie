@@ -11,16 +11,16 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-eddie" alt="Trophies" /></a>
-</p>
+</p> -->
 
 <!-- GitHub stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b-eddie&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b-eddie&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-eddie&theme=radical" alt="Streak Stats" />
-</p>
+</p> -->
 
 <h3 align="left">💻 Connect with me:</h3>
 <p align="left">
