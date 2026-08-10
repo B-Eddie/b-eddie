@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Eddie!</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Always Learning</h3>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Always Learning</h3>
 
 <br>
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-eddie&theme=radical" alt="Streak Stats" />
 </p> -->
 
-<h3 align="left">💻 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eddiebian/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/></a>
 <a href="https://www.instagram.com/eddie.bian/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" width="60" height="60"/></a>
@@ -31,7 +31,7 @@
 
 
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/>
@@ -45,9 +45,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-</p>
-
-<h3 align="left">💬 Quote of the Day</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
